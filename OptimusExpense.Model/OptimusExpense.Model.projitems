@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Label="SharedProjectFile_SccProperties">
+    <SharedProjectFile_ProjectGuid>{7cb53885-5ff3-48dd-8485-0027f140a6b5}</SharedProjectFile_ProjectGuid>
+    <SharedProjectFile_SccProjectName>SAK</SharedProjectFile_SccProjectName>
+    <SharedProjectFile_SccAuxPath>SAK</SharedProjectFile_SccAuxPath>
+    <SharedProjectFile_SccLocalPath>SAK</SharedProjectFile_SccLocalPath>
+    <SharedProjectFile_SccProvider>SAK</SharedProjectFile_SccProvider>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects Condition="'$(MSBuildVersion)' == '' Or '$(MSBuildVersion)' &lt; '16.0'">$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>7cce63c5-1bbf-43ef-8496-dc7eb117c088</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>OptimusExpense.Model</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\AspNetUsersInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\DocumentInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\EF_RaportareInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\ExpenseCostCenterInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\ExpenseNatureInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\ExpenseAdvanceInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\ExpenseReportInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\DashboardExpenseReportInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\FilterInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\EmployeeInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\ExpenseInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\PartnerPointInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\pck_CartViewInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\pck_OrderViewInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\pck_TaskViewInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\PersonInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\PartnerInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\DictionaryDetailInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\MenuInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\ReportDetailInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DTOs\ReportInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)IEntityBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\AspNetRoles.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\AspNetUsers.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\AspNetUserRoles.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Currency.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Dictionary.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\DictionaryDetail.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Document.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\DocumentDetail.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\DocumentState.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\DocumentType.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\EF_Raportare.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\EF_RaportareXML.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Employee.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Expense.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ExpenseAdvance.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ExpenseCostCenter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ExpenseReport.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Log.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\pck_CartView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\pck_OrderLog.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\pck_OrderView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\pck_TaskView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Person.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\PartnerPoint.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Partner.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ExpenseNature.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ExpenseProject.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\PropertyEntityValue.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\Report.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ReportDetail.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\ReportDetailCombo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\SerialNumber.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\UserAction.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\UserActionXRoles.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Models\UserXForbiddenUserAction.cs" />
+  </ItemGroup>
+</Project>

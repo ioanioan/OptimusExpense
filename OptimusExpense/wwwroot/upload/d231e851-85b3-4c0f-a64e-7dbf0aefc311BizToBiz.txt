@@ -1,0 +1,292 @@
+
+
+Farmacordis
+213.157.167.198\SQL2008,1443
+sa
+F@rm@c0rdis
+
+Adresa serviciu Web
+
+86.120.46.119:2222
+
+mstsch
+213.157.167.198:1444
+//Ceparolavreitu!
+
+setrio
+53tr10@2017
+
+
+
+Team viewer
+967841797
+setrio1234 
+
+
+
+Pharmasuite
+Team viewer
+Gie
+969 824 426
+setrio
+
+86.122.135.235\BIZDEPOZIT2008,1433
+sa
+setrio
+
+
+
+DataCenter Setrio
+85.9.22.205
+setriosoft
+53tr10##PROG
+
+
+
+Perla
+IP: 10.151.0.44
+User: PHARMAFARM\setrio
+Psw: perla2012
+
+De pe acest sever accesezi:
+
+IP: 172.20.154.204
+User: PHFDMZPERLA\Administrator
+Psw:  LocalPass1
+
+
+
+ADM
+Remote Desktop
+ns1.admfarm.ro:11389
+ns2.admfarm.ro:11389
+ 
+user: setrioadmin
+pass: Schimba-ma123
+
+
+Minifarm
+
+ho.minifarm.ro\SQL2008,1443
+Minifarm53tr10
+
+la adresa isaccei.minifarm.ro
+cu utilizator Administrator
+cu parola Minifarm53tr10
+
+
+
+AG MED
+ID: 370161723
+
+396 308 489
+jc5f57
+654321
+
+Pass: 654321
+mstsch
+192.168.10.17  Administrator cu parola Cumparat2005#OK1
+192.168.10.2 , cu administrator si parola 1qaz@WSX
+SQL sa cu parola ch@r1sm@
+
+garbaceaioan
+Setrio#2016
+
+
+ROPharma
+
+Site
+ftp://comenzi.ropharma.ro
+user: ftpsetrio
+parola: #$bizTobiz!@
+
+81.12.250.42:34034
+
+Ropharma\sqlbizpharma
+Ropharma123#
+
+
+Unilab
+id: 561105376
+ps: 53tr10
+parola Administrator
+microbiologie
+
+
+DataCenter nou
+62.217.237.114
+silviu.pantea
+53tr10@SP
+
+62.217.237.114\SQL2008,1433
+Biz@S0ft$#
+
+
+
+Vnp Setrio
+IP: 95.76.157.107
+User: igarbacea
+Parola: VPN12Ioan#$!#
+
+
+GoPharma
+
+109.166.206.174\SQL2014, 49253
+gopharma
+53tr1053tr10
+ 
+109.166.206.174
+10@n 53rv1c11
+
+
+FTP setrio
+ftp://igarbacea@ftp2.setrio.ro 
+53tr10#
+
+
+Delta Farm
+Team Viewer
+270723880
+123456
+
+92.86.81.70:3389
+deltafarm\sysadmin
+br9@14sl9p
+
+
+GreenPower
+89.121.241.178:3387
+62.217.195.73
+setrio
+green
+
+Server sql
+Green#338907
+
+
+
+
+Bioritmo
+User: bioritmo
+Parola: U9Hfo1h78r
+
+Control Panel: http://89.46.6.55:2082/
+Dupa ce domeniul va fi propagat puteti folosi si link-ul: http://www.bioritmo.ro:2082/
+
+Detalii server:
+
+Numele Serverului: bumper.namebox.ro
+IP-ul Serverului: 89.46.6.55
+
+62.217.237.114\sql2008,1433
+
+Nobel Med
+http://www.mikrotik.com/download,
+Winbox 
+
+178402979
+53tr10
+
+188.26.117.148\BizDepozit2008,1443
+sa
+setrio
+
+PharmaHead
+86.121.226.9\BizDepozit2008,1443
+sa
+setrio
+Administrator
+53rv3r BD
+53rv3r BDHO
+
+Remedia
+RDP : remedia.ro:33006
+109.166.219.122:3397
+senior.remediadl.ro:3397
+
+
+Username : setrio
+Parola : 2019@Set
+Baza de date
+sa
+P@ssword
+
+ioan.garbacea
+ixRS4W2RcqUsHdQ
+192.168.0.81
+setrio
+@set2020
+
+
+
+DONA
+
+HO
+91.208.123.3\SQL2008, 1433
+sa
+setrio5@DONA
+
+CHARISMA
+91.208.123.241\erp,1433
+gmoldoveanu
+gmoldoveanu53tr10#
+
+Web_Planificare
+W3b@5#D0n@!
+
+Banda
+53rv3r B@nd@_53tr10
+
+
+EuroPharma
+IP intern DMZ: 10.36.36.196
+User: lucian.preda
+Password: E%5lixA
+
+Parola noua
+lucian2020@
+S3tr104eph04@
+10.36.36.196
+vpn
+lucian.preda
+fpq0WV?WZ
+E7QPMtiQO05w
+
+Server: ftp.leadit.ro:21
+Username: setrio@leadit.ro
+Password: E%5lixA
+
+Baza de date
+10.36.36.32
+bizphauser
+7RbSQ2EXh8C!=Jdv
+
+
+AC:3F:A4:5B:1C:DB
+AC:3F:A4:13:05:E1P
+
+GoPharma Server nou
+109.166.212.147
+ioan.garbacea  
+10@n G0Ph@rm@
+
+PharmaChem
+1211041784
+QmaLzP@486
+Administrator/PmaLzQ#486
+
+Fidello
+919 231 760
+setriopc
+
+Epic Farma
+181 074 347
+123456789
+setrio
+53tr10
+
+DASCO
+979473291
+Osc@r@2019
+Administrator
+Osc@rD@v!d@81

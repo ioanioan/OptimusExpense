@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Label="SharedProjectFile_SccProperties">
+    <SharedProjectFile_ProjectGuid>{49b0fc03-ad0a-4dbc-8d1f-4379dfd7c5ba}</SharedProjectFile_ProjectGuid>
+    <SharedProjectFile_SccProjectName>SAK</SharedProjectFile_SccProjectName>
+    <SharedProjectFile_SccAuxPath>SAK</SharedProjectFile_SccAuxPath>
+    <SharedProjectFile_SccLocalPath>SAK</SharedProjectFile_SccLocalPath>
+    <SharedProjectFile_SccProvider>SAK</SharedProjectFile_SccProvider>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects Condition="'$(MSBuildVersion)' == '' Or '$(MSBuildVersion)' &lt; '16.0'">$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>63a088ec-06e2-4d77-93cf-cd83e6d0c40d</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>OptimusExpense.Data</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Abstract\IEntityBaseRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Abstract\IRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)OptimusExpenseContext.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\AspnetUsersRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\DocumentDetailRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\DocumentRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\DocumentStateRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\EF_RaportareRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\EmployeeRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\CurrencyRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\ExpenseAdvanceRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\ExpenseCostCenterRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\ExpenseReportRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\ExpenseRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\LogRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\PartnerPointRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\pck_OrderLogRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\pck_OrderViewRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\PersonRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\PartnerRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\EntityBaseRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Abstract\EntityBaseRepositoryA.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\DictionaryDetailRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\ExpenseNatureRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\ExpenseProjectRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\PropertyEntityValueRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\ReportRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\SerialNumberRepository.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Repositories\UserActionRepository.cs" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptimusExpense", "OptimusExpense\OptimusExpense.csproj", "{DAA25F88-A57B-49AD-B0B7-D07FEE8C97DA}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "OptimusExpense.Data", "OptimusExpense.Data\OptimusExpense.Data.shproj", "{63A088EC-06E2-4D77-93CF-CD83E6D0C40D}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "OptimusExpense.Model", "OptimusExpense.Model\OptimusExpense.Model.shproj", "{7CCE63C5-1BBF-43EF-8496-DC7EB117C088}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "OptimusExpense.Infrastucture", "OptimusExpense.Infrastucture\OptimusExpense.Infrastucture.shproj", "{F635FC37-E051-4CF4-A11C-2D87D28F404F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimusCertificate", "OptimusCertificate\OptimusCertificate.csproj", "{C91DD6A5-04DF-4D53-B784-49B67D56D5E5}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		OptimusExpense.Data\OptimusExpense.Data.projitems*{63a088ec-06e2-4d77-93cf-cd83e6d0c40d}*SharedItemsImports = 13
+		OptimusExpense.Model\OptimusExpense.Model.projitems*{7cce63c5-1bbf-43ef-8496-dc7eb117c088}*SharedItemsImports = 13
+		OptimusExpense.Data\OptimusExpense.Data.projitems*{daa25f88-a57b-49ad-b0b7-d07fee8c97da}*SharedItemsImports = 5
+		OptimusExpense.Infrastucture\OptimusExpense.Infrastucture.projitems*{daa25f88-a57b-49ad-b0b7-d07fee8c97da}*SharedItemsImports = 5
+		OptimusExpense.Model\OptimusExpense.Model.projitems*{daa25f88-a57b-49ad-b0b7-d07fee8c97da}*SharedItemsImports = 5
+		OptimusExpense.Infrastucture\OptimusExpense.Infrastucture.projitems*{f635fc37-e051-4cf4-a11c-2d87d28f404f}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA25F88-A57B-49AD-B0B7-D07FEE8C97DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA25F88-A57B-49AD-B0B7-D07FEE8C97DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA25F88-A57B-49AD-B0B7-D07FEE8C97DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA25F88-A57B-49AD-B0B7-D07FEE8C97DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91DD6A5-04DF-4D53-B784-49B67D56D5E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91DD6A5-04DF-4D53-B784-49B67D56D5E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91DD6A5-04DF-4D53-B784-49B67D56D5E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91DD6A5-04DF-4D53-B784-49B67D56D5E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05AD71DB-87B9-4690-BE65-7B4B624A75D8}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 9
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://garpan.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = OptimusExpense\\OptimusExpense.csproj
+		SccProjectName1 = OptimusExpense
+		SccLocalPath1 = OptimusExpense
+		SccProjectUniqueName2 = OptimusExpense.Data\\OptimusExpense.Data.shproj
+		SccProjectName2 = OptimusExpense.Data
+		SccLocalPath2 = OptimusExpense.Data
+		SccProjectUniqueName3 = OptimusExpense.Data\\OptimusExpense.Data.projitems
+		SccProjectTopLevelParentUniqueName3 = OptimusExpense.Data\\OptimusExpense.Data.shproj
+		SccProjectName3 = OptimusExpense.Data
+		SccLocalPath3 = OptimusExpense.Data
+		SccProjectUniqueName4 = OptimusExpense.Model\\OptimusExpense.Model.shproj
+		SccProjectName4 = OptimusExpense.Model
+		SccLocalPath4 = OptimusExpense.Model
+		SccProjectUniqueName5 = OptimusExpense.Model\\OptimusExpense.Model.projitems
+		SccProjectTopLevelParentUniqueName5 = OptimusExpense.Model\\OptimusExpense.Model.shproj
+		SccProjectName5 = OptimusExpense.Model
+		SccLocalPath5 = OptimusExpense.Model
+		SccProjectUniqueName6 = OptimusExpense.Infrastucture\\OptimusExpense.Infrastucture.shproj
+		SccProjectName6 = OptimusExpense.Infrastucture
+		SccLocalPath6 = OptimusExpense.Infrastucture
+		SccProjectUniqueName7 = OptimusExpense.Infrastucture\\OptimusExpense.Infrastucture.projitems
+		SccProjectTopLevelParentUniqueName7 = OptimusExpense.Infrastucture\\OptimusExpense.Infrastucture.shproj
+		SccProjectName7 = OptimusExpense.Infrastucture
+		SccLocalPath7 = OptimusExpense.Infrastucture
+		SccProjectUniqueName8 = OptimusCertificate\\OptimusCertificate.csproj
+		SccProjectName8 = OptimusCertificate
+		SccLocalPath8 = OptimusCertificate
+	EndGlobalSection
+EndGlobal

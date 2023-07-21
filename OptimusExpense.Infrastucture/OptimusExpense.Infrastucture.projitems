@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Label="SharedProjectFile_SccProperties">
+    <SharedProjectFile_ProjectGuid>{0532ff33-8cd5-4427-977c-b21f43fa4480}</SharedProjectFile_ProjectGuid>
+    <SharedProjectFile_SccProjectName>SAK</SharedProjectFile_SccProjectName>
+    <SharedProjectFile_SccAuxPath>SAK</SharedProjectFile_SccAuxPath>
+    <SharedProjectFile_SccLocalPath>SAK</SharedProjectFile_SccLocalPath>
+    <SharedProjectFile_SccProvider>SAK</SharedProjectFile_SccProvider>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects Condition="'$(MSBuildVersion)' == '' Or '$(MSBuildVersion)' &lt; '16.0'">$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>f635fc37-e051-4cf4-a11c-2d87d28f404f</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>OptimusExpense.Infrastucture</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Enums.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exception\HttpResponseException.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Exception\HttpResponseExceptionFilter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Extensions\DynamicQueryable.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Extensions\EnumerableExtensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Extensions\ExecuteSqlExt.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Utils\CurrencyRate.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Utils\EmailSender.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Utils\SimpleMapper.cs" />
+  </ItemGroup>
+</Project>
